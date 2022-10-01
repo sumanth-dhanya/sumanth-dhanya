@@ -8,6 +8,7 @@ Add me on [Linkdin](https://www.linkedin.com/in/sumanth-d-8790a180/)
 🖥️ I've shared my working on 
 
 ML-ops ([github_repo]) - [try_demo]
+
 NLP [github-repo](https://github.com/slackroo/Machine_learning)
 
 🔭 I’m currently working on VRP 
