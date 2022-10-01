@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Sumanth, a Senior Supply Chain Network Design Engineer based in Bangalore. I have developped a passion for using Data Science and Python programming to optimize Supply Chain Operations, Computer Vision, web-scrapping, ML-Deployment and monitoring
+
+🔭 I’m currently working on VRP 
+
+
 <!--
 **slackroo/slackroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
