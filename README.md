@@ -2,6 +2,9 @@
 
 I'm Sumanth, a Senior Supply Chain Network Design Engineer based in Bangalore. I have developped a passion for using Data Science and Python programming to optimize Supply Chain Operations, Computer Vision, web-scrapping, ML-Deployment and monitoring
 
+👉 Let's connect!
+Add me on [Linkdin](https://www.linkedin.com/in/sumanth-d-8790a180/)
+
 🔭 I’m currently working on VRP 
 
 
