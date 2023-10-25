@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Sumanth, a Senior Supply Chain Network Design Engineer based in Bangalore. I have developped a passion for using Data Science and Python programming to optimize Supply Chain Operations, Computer Vision, web-scrapping, ML-Deployment and monitoring
+I'm Sumanth. I am passionate about leveraging data science and machine learning to build products and services equipped to solve real-world business problems. I have implemented projects in risk analytics, asset management, hypothesis testing, forecasting, and optimisation and I am keen to experiment with research advancements in machine learning, deep learning and generative AI.
+
+Specialities: Data Science, Machine Learning, Deep Learning, Optimization, Predictive and Prescriptive Analytics, Business Intelligence, Product management, LLM fine tuning, scaled LLM evaluation
 
 👉 Let's connect!
 Add me on [Linkdin](https://www.linkedin.com/in/sumanth-d-8790a180/)
@@ -11,7 +13,7 @@ ML-ops ([github_repo]) - [try_demo]
 
 NLP [github-repo](https://github.com/slackroo/Machine_learning)
 
-🔭 I’m currently working on VRP 
+
 
 
 <!--
